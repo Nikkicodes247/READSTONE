@@ -29,3 +29,6 @@ Help students find all study resources within 30 seconds before exams.
 - Vite
 - Firebase
 - Deployment
+
+#contribution 
+improved
